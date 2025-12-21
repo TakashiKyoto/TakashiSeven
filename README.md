@@ -7,7 +7,7 @@
 ### What I Do
 
 - Building apps and tools with Python, PySide6, and more
-- Producing electronic music under **Takashi Kyoto**
+- Producing Japanese music
 - Creating things that are useful, minimal, and well-designed
 
 ---
@@ -24,7 +24,3 @@
 - Android apps (coming soon to Google Play)
 - Desktop utilities for Windows/Linux
 - Music production
-
----
-
-*Less noise. More signal.*
